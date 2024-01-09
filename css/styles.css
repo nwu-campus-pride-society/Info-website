@@ -1,3 +1,7 @@
+@viewport {
+    width: 320px auto;
+}
+
 body{
     font-family: "Montserrat";
 }
